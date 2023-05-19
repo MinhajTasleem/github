@@ -2,7 +2,7 @@ name: super-linter
 
 on: push
 
-jobs;
+jobs:
   super-lint:
     name:lint-code
     runs-on: ubuntu-latest
